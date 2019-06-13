@@ -1,0 +1,15 @@
+{
+  "name": "util_ngx",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/constW/util_ngx.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "author": {
+    "name": "wangsong"
+  }
+}
